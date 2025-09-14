@@ -1,0 +1,10 @@
+        .header{
+            height: 40vh;
+            background-image: url("../images/header-image.jpg");
+            background-size: 100% ;
+            background-repeat: no-repeat;
+        }
+
+        .header-image-container{
+            background-color: aqua;
+        }
