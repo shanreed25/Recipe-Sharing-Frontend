@@ -1,10 +1,37 @@
-        .header{
-            height: 40vh;
-            background-image: url("../images/header-image.jpg");
-            background-size: 100% ;
-            background-repeat: no-repeat;
-        }
+.header {
+  height: 40vh;
+  background-image: url("../images/header-image.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 
-        .header-image-container{
-            background-color: aqua;
-        }
+.header-image-container {
+}
+
+/* NAV BAR */
+
+nav {
+  background-color: #BDABDC;
+}
+.nav-logo {
+  height: 80px;
+}
+.menu li a {
+  color: #4A2781;
+}
+
+/* INTRO */
+.intro-p {
+  width: 80%;
+}
+
+/* FEATURED SECTION */
+.card {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #BDABDC;
+}
+
+.featured-thumbnail {
+  background-color: #BDABDC;
+}
