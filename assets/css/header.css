@@ -11,13 +11,13 @@
 /* NAV BAR */
 
 nav {
-  background-color: #BDABDC;
+  background-color: #bdabdc;
 }
 .nav-logo {
   height: 80px;
 }
 .menu li a {
-  color: #4A2781;
+  color: #4a2781;
 }
 
 /* INTRO */
@@ -29,9 +29,30 @@ nav {
 .card {
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: #BDABDC;
+  background-color: #bdabdc;
 }
 
 .featured-thumbnail {
-  background-color: #BDABDC;
+  background-color: #bdabdc;
+}
+
+/* FOOTER */
+footer {
+  background-color: #bdabdc;
+  height: 300px;
+}
+
+.footer-menu {
+  display: flex;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+.footer-menu a {
+  text-decoration: none;
+  color: #4a2781;
+}
+
+.footer-logo {
+  height: 80px;
 }
