@@ -1,7 +1,7 @@
 .header {
   height: 40vh;
   background-image: url("../images/header-image.jpg");
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
@@ -17,6 +17,7 @@ nav {
   height: 80px;
 }
 .menu li a {
+  font-size: 1.3em;
   color: #4a2781;
 }
 
